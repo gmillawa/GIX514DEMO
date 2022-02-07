@@ -1,0 +1,4 @@
+name: GIX514Demo
+channels:
+  - defaults
+prefix: C:\Users\milla\anaconda3\envs\GIX514Demo
